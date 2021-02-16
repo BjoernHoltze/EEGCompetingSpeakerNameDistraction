@@ -2,7 +2,7 @@ This folder contains the analysis pipeline for the manuscript "Are they calling 
 
 The corresponding dataset can be found in the OpenNeuro repository 10.18112/openneuro.ds003516.v1.1.0.
 
-To replicate the analysis, folow these steps
+To replicate the analysis use MATLAB R2019b and folow these steps:
 
 1) Download all scripts into one folder.
 2) Download the BIDS dataset from 10.18112/openneuro.ds003516.v1.1.0 into a folder that is on the same level as the folder containing the scripts. 
