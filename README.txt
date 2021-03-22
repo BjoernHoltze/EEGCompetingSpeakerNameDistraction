@@ -1,4 +1,4 @@
-This folder contains the analysis pipeline for the manuscript "Are they calling my name? Attention capture is reflected in the neural tracking of attended and ignored speech" (under review, link will be added upon publication).
+This folder contains the analysis pipeline for the manuscript "Are they calling my name? Attention capture is reflected in the neural tracking of attended and ignored speech" (https://doi.org/10.3389/fnins.2021.643705).
 
 The corresponding dataset can be found in the OpenNeuro repository 10.18112/openneuro.ds003516.v1.1.0.
 
